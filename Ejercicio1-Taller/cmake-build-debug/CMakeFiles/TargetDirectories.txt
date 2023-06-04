@@ -1,3 +1,0 @@
-D:/weas que sirven/Clyon/Ejercicio1-Taller/cmake-build-debug/CMakeFiles/Ejercicio1_Taller.dir
-D:/weas que sirven/Clyon/Ejercicio1-Taller/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/weas que sirven/Clyon/Ejercicio1-Taller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
