@@ -1,3 +1,0 @@
-C:/Users/banan/CLionProjects/noded/cmake-build-debug/CMakeFiles/noded.dir
-C:/Users/banan/CLionProjects/noded/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/banan/CLionProjects/noded/cmake-build-debug/CMakeFiles/rebuild_cache.dir
